@@ -41,5 +41,17 @@ As Grace Hopper said:
   * Item 3a   
   * Item 3b
 
+# IMAGES
+![GitHub Logo](/images/logo.png)
+
+Format: ![Alt Text](url)
+
+# LINKS
+http://github.com - automatic!
+
+[GitHub](http://github.com)
+
+
+
 
 
